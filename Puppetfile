@@ -24,7 +24,7 @@ forge "https://forgeapi.puppetlabs.com"
 
 # PL Modules
 
-mod 'puppetlabs/acl', '1.1.1'
+mod 'puppetlabs-acl', '2.0.1'
 mod 'puppetlabs/apache', '1.6.0'
 mod 'puppetlabs/aws', '1.4.0'
 mod 'puppetlabs/azure', '1.0.2'
