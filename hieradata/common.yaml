@@ -5,7 +5,7 @@ puppet_enterprise::master::code_manager::sources:
     prefix: "core"
   research_it:
     remote: "https://github.com/SeanTecha/control-repo-research.git"
-    prefix: true
+    prefix: false
     
 gitlab::package_ensure: '8.14.4-ce.0.el7'
 puppet_enterprise::profile::master::check_for_updates: false
