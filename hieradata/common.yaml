@@ -2,7 +2,7 @@
 puppet_enterprise::master::code_manager::sources:
   core_it:
     remote: "https://github.com/SeanTecha/control-repo-it.git"
-    prefix: "core_"
+    prefix: "core"
   research_it:
     remote: "https://github.com/SeanTecha/control-repo-research.git"
     prefix: true
