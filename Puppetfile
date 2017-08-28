@@ -130,9 +130,9 @@ mod 'powershell5',
 mod 'puppet_vim_env',
   :git => 'https://github.com/jpadams/puppet_vim_env.git',
   :ref => '2.2.0'
-mod 'razordemo',
-  :git => 'https://github.com/jpadams/razordemo.git',
-  :ref => '3.2.0'
+#mod 'razordemo',
+#  :git => 'https://github.com/jpadams/razordemo.git',
+#  :ref => '3.2.0'
 mod 'tse_admins',
   :git => 'https://github.com/puppetlabs/tse-module-tse_admins.git'
 mod 'tse_facts',
@@ -153,9 +153,9 @@ mod 'tse_sqlserver',
 #mod 'sqlserver',
 #  :git => 'https://github.com/puppetlabs/puppetlabs-sqlserver.git',
 #  :ref => '1.1.4'
-mod 'sqlwebapp',
-  :git => 'https://github.com/puppetlabs/tse-module-sqlwebapp.git',
-  :ref => 'master'
+#mod 'sqlwebapp',
+#  :git => 'https://github.com/puppetlabs/tse-module-sqlwebapp.git',
+#  :ref => 'master'
 mod 'websphere',
   :git => 'https://github.com/ipcrm/puppetlabs-websphere.git',
   :ref => 'master'
