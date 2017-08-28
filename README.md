@@ -1,4 +1,4 @@
-# SE Team Puppet Environments #
+# Research Team Puppet Environments #
 
 ## Environments ##
 
