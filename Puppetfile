@@ -141,9 +141,9 @@ mod 'tse_facts',
 #mod 'vsphere',
 #   :git => 'https://github.com/puppetlabs/puppetlabs-vsphere.git',
 #   :ref => '1.2.2'
-mod 'vsphere_provision',
-  :git => 'https://github.com/puppetlabs/tse-module-vsphere_provision.git',
-  :ref => '1.0.0'
+#mod 'vsphere_provision',
+#  :git => 'https://github.com/puppetlabs/tse-module-vsphere_provision.git',
+#  :ref => '1.0.0'
 mod 'tse_windows',
   :git => 'https://github.com/puppetlabs/tse-module-tse_windows.git',
   :ref => '0.1.0'
