@@ -1,5 +1,12 @@
 ---
-
+puppet_enterprise::master::code_manager::sources:
+  core_it:
+    remote: "https://github.com/SeanTecha/control-repo-it.git"
+    prefix: "core_"
+  research_it:
+    remote: "https://github.com/SeanTecha/control-repo-research.git"
+    prefix: true
+    
 gitlab::package_ensure: '8.14.4-ce.0.el7'
 puppet_enterprise::profile::master::check_for_updates: false
 
