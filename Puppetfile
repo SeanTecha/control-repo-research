@@ -93,13 +93,13 @@ mod 'crayfishx-purge', '1.2.0'
 # Git TSE modules - either maintained under seteam or by individual SE's
 
 mod 'awsenv',
-  :git => 'git@github.com:puppetlabs/tse-module-awsenv.git',
+  :git => 'https://github.com/puppetlabs/tse-module-awsenv.git',
   :ref => '0.1.0'
 mod 'cloudshop',
   :git => 'https://github.com/velocity303/puppet-cloudshop.git',
   :ref => '1.0.0'
 mod 'cmsapp',
-  :git => 'git@github.com:puppetlabs/tse-module-cmsapp.git'
+  :git => 'https://github.com/puppetlabs/tse-module-cmsapp.git'
 
 # This fork of puppet/dotnet includes updates to allow .NET to be idempotently
 # ensured present on Server 2012, which has many .NET versions built-in. There
@@ -110,58 +110,58 @@ mod 'dotnet',
   :ref => 'c841b36081c22de7876d85af4debf0375731d1a5'
 
 mod 'ec2tags',
-  :git => 'git@github.com:mrzarquon/puppet-ec2tags.git'
+  :git => 'https://github.com/mrzarquon/puppet-ec2tags.git'
 mod 'ibm_installation_manager',
-  :git => 'git@github.com:ipcrm/puppetlabs-ibm_installation_manager.git',
+  :git => 'https://github.com/puppetlabs/puppetlabs-ibm_installation_manager.git',
   :ref => 'master'
 mod 'ldap',
-  :git => 'git@github.com:puppetlabs/tse-module-ldapserver.git'
+  :git => 'https://github.com/puppetlabs/tse-module-ldapserver.git'
 mod 'nonpriv',
-  :git => 'git@github.com:puppetlabs/tse-module-nonpriv.git',
+  :git => 'https://github.com/puppetlabs/tse-module-nonpriv.git',
   :ref => '0.1.0'
 mod 'openssh',
-  :git => 'git@github.com:puppetlabs/tse-module-openssh.git',
+  :git => 'https://github.com/puppetlabs/tse-module-openssh.git',
   :ref => '0.1.0'
 mod 'pe_windows_shortcuts',
-  :git => 'git@github.com:puppetlabs/tse-module-pe_windows_shortcuts.git'
+  :git => 'https://github.com/puppetlabs/tse-module-pe_windows_shortcuts.git'
 mod 'powershell5',
   :git => 'https://github.com/murdok5/powershell5.git',
   :ref => 'master'
 mod 'puppet_vim_env',
-  :git => 'git@github.com:puppetlabs/tse-module-puppet_vim_env.git',
+  :git => 'https://github.com/puppetlabs/tse-module-puppet_vim_env.git',
   :ref => '2.2.0'
 mod 'razordemo',
-  :git => 'git@github.com:puppetlabs/tse-module-razordemo.git',
+  :git => 'https://github.com/puppetlabs/tse-module-razordemo.git',
   :ref => '3.2.0'
 mod 'tse_admins',
-  :git => 'git@github.com:puppetlabs/tse-module-tse_admins.git'
+  :git => 'https://github.com/puppetlabs/tse-module-tse_admins.git'
 mod 'tse_facts',
-  :git => 'git@github.com:puppetlabs/tse-module-tse_facts.git',
+  :git => 'https://github.com/puppetlabs/tse-module-tse_facts.git',
   :ref => '0.3.0'
 mod 'vsphere',
-   :git => 'git@github.com:puppetlabs/puppetlabs-vsphere.git',
+   :git => 'https://github.com/puppetlabs/puppetlabs-vsphere.git',
    :ref => '1.2.2'
 mod 'vsphere_provision',
-  :git => 'git@github.com:puppetlabs/tse-module-vsphere_provision.git',
+  :git => 'https://github.com/puppetlabs/tse-module-vsphere_provision.git',
   :ref => '1.0.0'
 mod 'tse_windows',
-  :git => 'git@github.com:puppetlabs/tse-module-tse_windows.git',
+  :git => 'https://github.com/puppetlabs/tse-module-tse_windows.git',
   :ref => '0.1.0'
 mod 'tse_sqlserver',
   :git => 'https://github.com/puppetlabs/tse-module-tse_sqlserver.git',
   :ref => '1.0.3'
 mod 'sqlserver',
-  :git => 'git@github.com:puppetlabs/puppetlabs-sqlserver.git',
+  :git => 'https://github.com/puppetlabs/puppetlabs-sqlserver.git',
   :ref => '1.1.4'
 mod 'sqlwebapp',
-  :git => 'git@github.com:puppetlabs/tse-module-sqlwebapp.git',
+  :git => 'https://github.com/puppetlabs/tse-module-sqlwebapp.git',
   :ref => 'master'
 mod 'websphere',
-  :git => 'git@github.com:ipcrm/puppetlabs-websphere.git',
+  :git => 'https://github.com/ipcrm/puppetlabs-websphere.git',
   :ref => 'master'
 mod 'wordpress_app',
-  :git => 'git@github.com:ipcrm/apporchestration-wordpress.git'
+  :git => 'https://github.com/ipcrm/apporchestration-wordpress.git'
 mod 'zabbix_app',
-  :git => 'git@github.com:ipcrm/appmgmt-module-zabbix_app.git'
+  :git => 'https://github.com/ipcrm/appmgmt-module-zabbix_app.git'
 mod 'zabbix',
-  :git => 'git@github.com:ipcrm/puppet-zabbix.git'
+  :git => 'https://github.com/ipcrm/puppet-zabbix.git'
