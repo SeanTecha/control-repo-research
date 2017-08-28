@@ -128,19 +128,19 @@ mod 'powershell5',
   :git => 'https://github.com/murdok5/powershell5.git',
   :ref => 'master'
 mod 'puppet_vim_env',
-  :git => 'https://github.com/puppetlabs/tse-module-puppet_vim_env.git',
+  :git => 'https://github.com/jpadams/puppet_vim_env.git',
   :ref => '2.2.0'
 mod 'razordemo',
-  :git => 'https://github.com/puppetlabs/tse-module-razordemo.git',
+  :git => 'https://github.com/jpadams/razordemo.git',
   :ref => '3.2.0'
 mod 'tse_admins',
   :git => 'https://github.com/puppetlabs/tse-module-tse_admins.git'
 mod 'tse_facts',
   :git => 'https://github.com/puppetlabs/tse-module-tse_facts.git',
   :ref => '0.3.0'
-mod 'vsphere',
-   :git => 'https://github.com/puppetlabs/puppetlabs-vsphere.git',
-   :ref => '1.2.2'
+#mod 'vsphere',
+#   :git => 'https://github.com/puppetlabs/puppetlabs-vsphere.git',
+#   :ref => '1.2.2'
 mod 'vsphere_provision',
   :git => 'https://github.com/puppetlabs/tse-module-vsphere_provision.git',
   :ref => '1.0.0'
@@ -150,9 +150,9 @@ mod 'tse_windows',
 mod 'tse_sqlserver',
   :git => 'https://github.com/puppetlabs/tse-module-tse_sqlserver.git',
   :ref => '1.0.3'
-mod 'sqlserver',
-  :git => 'https://github.com/puppetlabs/puppetlabs-sqlserver.git',
-  :ref => '1.1.4'
+#mod 'sqlserver',
+#  :git => 'https://github.com/puppetlabs/puppetlabs-sqlserver.git',
+#  :ref => '1.1.4'
 mod 'sqlwebapp',
   :git => 'https://github.com/puppetlabs/tse-module-sqlwebapp.git',
   :ref => 'master'
