@@ -125,9 +125,9 @@ mod 'pe_windows_shortcuts',
 mod 'powershell5',
   :git => 'https://github.com/murdok5/powershell5.git',
   :ref => 'master'
-mod 'puppet_vim_env',
-  :git => 'https://github.com/jpadams/puppet_vim_env.git',
-  :ref => '2.2.0'
+#mod 'puppet_vim_env',
+#  :git => 'https://github.com/jpadams/puppet_vim_env.git',
+#  :ref => '2.2.0'
 #mod 'razordemo',
 #  :git => 'https://github.com/jpadams/razordemo.git',
 #  :ref => '3.2.0'
